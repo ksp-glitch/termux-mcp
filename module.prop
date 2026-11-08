@@ -1,0 +1,6 @@
+id=termux.mcp
+name=Termux MCP
+version=0.02
+versionCode=1
+author=Ghhhhhftuj
+description=Termux 工具 MCP（让 AI 调用 Termux 工具与操作屏幕，无需 Termux 前台）
